@@ -1,0 +1,13 @@
+{
+  "name": "Alicerce 3D — projeto de casas",
+  "short_name": "Alicerce 3D",
+  "description": "Monte a planta, veja a casa em 3D, passeie por dentro e saiba quanto custa.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#ee7a1d",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

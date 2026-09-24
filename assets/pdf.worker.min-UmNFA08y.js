@@ -1,0 +1,1 @@
+var e=`/alicerce-3d-app/assets/pdf.worker.min-Dswkl-cV.mjs`;export{e as default};
